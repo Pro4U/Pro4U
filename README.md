@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Socket.io**
 
-- 👨‍💻 All of my projects are available at [https://shivamtripathi.vercel.app/](https://shivamtripathi.vercel.app/)
-
 - 📫 How to reach me **stripathi9871@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner**
