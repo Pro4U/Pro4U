@@ -1,6 +1,3 @@
-[![MasterHead](https://aspireinfolabs.com/static/media/blog_cover_7.b10ac410.jpeg)](https://shivamtripathi.vercel.app)
-
-
 <h1 align="center">Hi 👋, I'm Shivam Tripathi</h1>
 <h3 align="center">A passionate Full Stack Developer from Delhi, India</h3>
 
