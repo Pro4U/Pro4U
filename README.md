@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Tripathi</h1>
 <h3 align="center">A passionate Full Stack Developer from Delhi, India</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
 
 - 🔭 I’m currently working on **MERN project**
 
