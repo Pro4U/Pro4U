@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Socket.io**
 
-- 📫 How to reach me **stripathi9871@gmail.com**
+- 📫 How to reach me **mailshivamnow@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner**
 
