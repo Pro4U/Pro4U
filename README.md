@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN project**
 
-- 🌱 I’m currently learning **Socket.io**
+<!-- - 🌱 I’m currently learning **Socket.io** -->
 
 - 📫 How to reach me **mailshivamnow@gmail.com**
 
